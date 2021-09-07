@@ -17,4 +17,4 @@ six==1.7.3
 SQLAlchemy==0.9.7
 Werkzeug==0.9.6
 wsgiref==0.1.2
-WTForms==2.0.1
+WTForms==3.0.0a1
